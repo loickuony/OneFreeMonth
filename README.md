@@ -17,6 +17,6 @@ Tested with Python 3.7.
 - [x] Support OCS
 - [x] Support Netflix
 - [ ] Support Hulu
-- [ ] Support Amazon Prime Video
+- [x] Support Amazon Prime Video
 - [ ] Support Spotify
 - [ ] Support Deezer
